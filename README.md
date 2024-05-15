@@ -6,6 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=HenryFelipe05&show_icons=true&locale=en&layout=compact&theme=dark" alt="HenryFelipe05 Langs Status"/>
 </div>
 
+##
+
 <div align="center"><br>
       <img align="center" alt="Csharp" height="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
       <img align="center" alt="Js" height="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,6 +19,7 @@
 </div>
 
 ##
+
 <h3 align="center">Contato 📧</h3>
 <div align="center">
       <a href="mailto:henry.oliveira11@etec.sp.gov.br"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logoColor=white" target="_blank"></a>
