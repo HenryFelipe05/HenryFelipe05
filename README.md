@@ -5,9 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenryFelipe05&show_icons=true&theme=dark" alt="HenryFelipe05 Status"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=HenryFelipe05&show_icons=true&locale=en&layout=compact&theme=dark" alt="HenryFelipe05 Langs Status"/>
 </div>
-
-##
-
+    
 <div align="center"><br>
       <img align="center" alt="Csharp" height="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
       <img align="center" alt="Js" height="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
