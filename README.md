@@ -2,7 +2,6 @@
 
 <div align="center">
   <a href="https://github.com/HenryFelipe05">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenryFelipe05&show_icons=true&theme=dark" alt="HenryFelipe05 Status"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=HenryFelipe05&show_icons=true&locale=en&layout=compact&theme=dark" alt="HenryFelipe05 Langs Status"/>
 </div>
     
@@ -13,7 +12,7 @@
       <img align="center" alt="CSS" height="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center" alt="React" height="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
       <img align="center" alt="React" height="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"> 
-<img align="center" alt="React" height="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg"> 
+      <img align="center" alt="React" height="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg"> 
 </div>
 
 ##
