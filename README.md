@@ -1,7 +1,3 @@
-<h2 align="left">Olá 👋! Meu nome é Henry!</h2>
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=HenryFelipe05&locale=pt-br&mode=daily&theme=aura&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HenryFelipe05&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=true" height="150" alt="languages graph"  />
